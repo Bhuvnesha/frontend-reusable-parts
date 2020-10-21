@@ -1,0 +1,32 @@
+.h1, h1 {
+  font-family:cursive;
+  color:lightgrey;
+  background:black;
+}
+
+p {
+  font-family:'Raleway';
+  font-size:18px;
+  color:black;
+}
+
+.h1, h1 {
+  font-family:'Raleway';
+  color:lightgrey;
+  background:rgb(107,115,15);
+}
+
+.ui-content {
+  margin-left:5%;
+  margin-right:5%;
+  margin-bottom:5%;
+}
+
+.h2, h2 {
+  text-align:center;
+  color:white;
+  background:rgb(27,118,147);
+  padding:0px;
+  font-size:26px;
+}
+
